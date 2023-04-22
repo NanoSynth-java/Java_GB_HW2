@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-22T16:35:15.662941600Z</date>
+  <millis>1682181315662</millis>
+  <nanos>941600</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>ALL</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>element:</message>
+  <param>[I@49097b5d</param>
+</record>
+</log>
